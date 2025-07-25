@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Staddjy!
 
-<!--
-**staddjy/staddjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and motivated aspiring Cybersecurity Analyst with a strong foundation in networking, system security, and threat detection. I enjoy building hands-on labs and diving into blue-team projects to improve my skills and share knowledge with others.
 
-Here are some ideas to get you started:
+## 🎓 Currently
+- 📚 Pursuing a **Bachelor's degree in Information Technology**
+- 🛡️ Exploring SIEM tools, detection engineering, and cybersecurity analytics
+- 🔍 Building real-world labs with **Splunk**, **Sysmon**, and **Windows logging**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Certifications
+- ✅ **CompTIA Network+**
+- ✅ **CompTIA Security+**
+
+## 🔧 Skills & Interests
+- Log Analysis & Threat Detection  
+- Blue Team Operations  
+- MITRE ATT&CK Framework  
+- SIEMs (Splunk, Elastic)  
+- Windows Event Logs, Sysmon  
+- Cybersecurity Labs & Simulation
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/carven-caze-168905174/) 
+
+---
+
+Thanks for visiting my GitHub! Feel free to explore my projects and reach out.
