@@ -10,6 +10,7 @@ I'm a passionate and motivated aspiring Cybersecurity Analyst with a strong foun
 ## 🧰 Certifications
 - ✅ **CompTIA Network+**
 - ✅ **CompTIA Security+**
+- - ✅ **LPIC**
 
 ## 🔧 Skills & Interests
 - Log Analysis & Threat Detection  
